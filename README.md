@@ -23,11 +23,6 @@ Lo que más disfruto del desarrollo de software:
 - 🚀 Construyendo proyectos para mi portafolio
 - 💼 Abierta a prácticas, oportunidades de aprendizaje
 
-
- 
-## 📊 Estadísticas de GitHub
- 
-![Estadísticas de Mariangel](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
  
 ## 📫 Contacto
  
