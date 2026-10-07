@@ -1,4 +1,4 @@
-# ¡Hola! Soy Mariangel Zea 👋
+# ¡Hola! Soy Mariangel Zea Alvarez 👋
  
 ### Tecnóloga en formación en Análisis y Desarrollo de Software 💻
  
