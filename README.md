@@ -2,7 +2,8 @@
  
 ### Tecnóloga en formación en Análisis y Desarrollo de Software 💻
  
-📍 Medellín, Colombia · 📧 mariangelzea912@gmail.com
+📍 Medellín, Colombia 
+📧 mariangelzea912@gmail.com
  
 ---
  
