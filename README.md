@@ -6,7 +6,7 @@
  
 ---
  
-## 🧑‍💻 Sobre mí
+##  👩💻Sobre mí
  
 Soy estudiante de la **Tecnología en Análisis y Desarrollo de Software** y estoy construyendo mi camino como desarrolladora. Me gusta convertir ideas en aplicaciones que funcionen, aprender haciendo proyectos y mejorar un poco cada día.
  
