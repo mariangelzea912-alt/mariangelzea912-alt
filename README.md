@@ -2,7 +2,7 @@
  
 ### Tecnóloga en formación en Análisis y Desarrollo de Software 💻
  
-📍 Medellín, Colombia · 📧 mariangelzea912@gmail.com
+📍 Medellín, Colombia
  
 ---
  
@@ -27,7 +27,7 @@ Lo que más disfruto del desarrollo de software:
 ## 📫 Contacto
  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariangelzea912@gmail.com)
- 
+ 📧 mariangelzea912@gmail.com
 ---
  
 ⭐ ¡Gracias por visitar mi perfil!
